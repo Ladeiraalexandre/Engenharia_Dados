@@ -4,6 +4,13 @@
 
 - [Projeto 2](https://github.com/Ladeiraalexandre/Engenharia_Dados/tree/main/Projeto_Dataproc)   : Criando um ecossistema Hadoop totalmente gerenciado com Google Cloud Platform
 
+- [Projeto 3](https://github.com/Ladeiraalexandre/Engenharia_Dados/tree/main/Projeto_Viagens_Uber)   : Projeto Data Warehouse (UNICAMP): Viagens - Uber
+
   
   
   
+  
+  
+  
+  
+
